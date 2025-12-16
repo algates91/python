@@ -1,0 +1,22 @@
+[
+    {
+        "order_id": "O1",
+        "product": "P1",
+        "qty": 8
+    },
+    {
+        "order_id": "O2",
+        "product": "P2",
+        "qty": 3
+    },
+    {
+        "order_id": "O3",
+        "product": "P3",
+        "qty": 15
+    },
+    {
+        "order_id": "O4",
+        "product": "P1",
+        "qty": 6
+    }
+]

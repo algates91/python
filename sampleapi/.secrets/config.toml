@@ -1,0 +1,16 @@
+[base]
+host="localhost"
+port=8000
+name="Test APIs"
+version="1.0.0"
+
+[database]
+username=""
+password=""
+database_url="sqlite+aiosqlite:///./test.db"
+database_name=""
+
+[jwt]
+secret="changeme"
+algorithm="HS256"
+expiry=30
